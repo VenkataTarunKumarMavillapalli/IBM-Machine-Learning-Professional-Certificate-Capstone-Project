@@ -22,4 +22,5 @@ The tasks I performed:
 - Creating an insightful and informative slideshow and presenting it.
 
 Tools: Jupyter Notebooks and Watson Studio
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, ipython-sql, Scikit-learn, ScipPy, Keras, and TensorFlow.
